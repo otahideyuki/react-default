@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+	line-height: 1;
+	font-size: 100%;
+	font-weight: normal;
+	box-sizing: border-box;
+}
+html {
+	font-size: 62.5%;
+	font-family: '游ゴシック体', YuGothic, '游ゴシック', 'Yu Gothic',
+		'Noto Sans JP', sans-serif;
+}
+body {
+	background: #1a1a1a;
+}
+li {
+	list-style-type: none;
+}
+a {
+	display: block;
+	text-decoration: none;
+}

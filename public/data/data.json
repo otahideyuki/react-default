@@ -1,0 +1,75 @@
+{
+	"info":[
+		{
+			"about":[
+				{
+					"title":"グラフに使用したデータの収集について",
+					"text":"総前文＝１２０文字。ダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。ダミーです。文字の大きさ、量、字間、行間等を確認するために入れてい"
+				}
+			],
+			"relation":[
+				{
+					"title":"関連記事リンク見出し見出し 関連記事リンク見出し見出し①",
+					"link":"https://www.asahi.com/",
+					"photo":"https://www.asahicom.jp/imgopt/img/f979025eee/comm/AS20221227001828.jpg"
+				},
+				{
+					"title":"関連記事リンク見出し見出し 関連記事リンク見出し見出し2",
+					"link":"https://www.asahi.com/",
+					"photo":"https://www.asahicom.jp/imgopt/img/61e9d21c60/comm/AS20221227001827.jpg"
+				},
+				{
+					"title":"関連記事リンク見出し見出し 関連記事リンク見出し見出し 関連記事リンク見出し見出し3",
+					"link":"https://www.asahi.com/",
+					"photo":"https://www.asahicom.jp/imgopt/img/f979025eee/comm/AS20221227001828.jpg"
+				},
+				{
+					"title":"関連記事リンク見出し見出し 関連記事リンク見出し見出し4",
+					"link":"https://www.asahi.com/",
+					"photo":"https://www.asahicom.jp/imgopt/img/61e9d21c60/comm/AS20221227001827.jpg"
+				}
+			],
+			"page":[
+				{
+					"title":"羽生結弦に関するトピックス",
+					"url":"https://www.asahi.com/sports/winter/figureskate/hanyu-yuzuru-articles/",
+					"image":"https://www.asahicom.jp/special/hanyu-yuzuru/2022-dream/img/page/yuzuru-hanyu.jpg"
+				}
+			],
+			"site":[
+				{
+					"title":"羽生企画",
+					"release":"2022-7-19",
+					"link":[
+						{
+							"title":"朝日新聞デジタル",
+							"url":"https://www.asahi.com/"
+						},
+						{
+							"title":"特集",
+							"url":"https://www.asahi.com/special/"
+						},
+						{
+							"title":"夢を追って 羽生結弦 SPIN THE DREAM",
+							"url":""
+						}
+					]
+				}
+			],
+			"credit":[
+				{
+					"job":"企画・制作",
+					"name":"朝日新聞スポーツ部"
+				},
+				{
+					"job":"デザイン・制作",
+					"name":"太田英之、原有希、福島未香子<span>（朝日新聞メディアプロダクション）</span>"
+				}
+			]
+		}
+	],
+	"footer":[
+		"朝日新聞デジタルに掲載の記事・写真の無断転載を禁じます。すべての内容は日本の著作権法並びに国際条約により保護されています。",
+		"Copyright © The Asahi Shimbun Company. All rights reserved. No reproduction or republication without written permission."
+	]
+}

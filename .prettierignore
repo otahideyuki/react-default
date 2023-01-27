@@ -1,0 +1,17 @@
+.DS_Store
+node_modules
+dist
+
+*.htm
+*.html
+*.json
+*.geojson
+*.md
+
+.env
+.env.*
+
+babel.config.js
+.gitignore
+env.d.ts
+next-env.d.ts
